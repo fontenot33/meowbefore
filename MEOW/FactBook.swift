@@ -1,9 +1,4 @@
-//
-//  FactBook.swift
-//  MEOW
-//
-//  Created by Ariana Fontenot on 9/15/15.
-//  Copyright (c) 2015 Treehouse. All rights reserved.
+
 //
 
 import Foundation
@@ -82,7 +77,41 @@ struct FactBook {
         "Most embarassing nick name ",
         "If you could sleep with anyone you actually know",
         "Most embarassing party story",
+          "Longest you've had sex",
+          "Shortest you've had sex",
+          "How many people you've had sex with this month",
+        "How many people you've had sex with this week",
+        "How many people you've had sex with in a week",
+        "How many people you've had sex with in 48 hours",
+        "Last person you've kissed",
+        "Last head",
+        "Weirdest place you've woken up",
+        "Longest you've gone with sex after having sex",
+        "Call out names of people you've hooked up with that are here",
+        "Scariest encounter with the police",
+        "Been arrested? Why",
+        "That one alcohol you can't stomach (and why)",
+        "Favorite place you've ever smoked",
+        "Favorite place to smoke",
+        "Peaceful place",
+        "Craziest reason you've been to the hospital/ER",
+        "Ever been in a fist fight",
+        "Time period you wish you grew up in ",
+        "Been in love, how'd ya know",
+        "Are you seeing anyone and who",
+        "How many people are you talking to right now",
+        "Weird fantasy",
+        "Favorite position",
+        "Best characteristic of the person to your right",
+        "First time sex story",
+        "Kill fuck marry at the table (whoever youd fuck takes the shot so you can get lucky",
+        "Kinkiest sex habit",
+        "Most embarassing sex habit",
+        "Biggest turn off in sex",
+        "BOY would you rather sit on a cake and eat a dick or sit on a dick and eat a cake (must be inserted)",
         
+
+
 
 
 
